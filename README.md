@@ -1,5 +1,3 @@
 # JenkinsDemo
 
-Demo for Continuous Integration using Jenkins
-
-Ready Go
+Dockers Building, Running, Deployement using Continuous Integration Tool Jenkins
